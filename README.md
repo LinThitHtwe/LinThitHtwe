@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I love music, instruments and I play piano regularly**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> **linthit2745@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
