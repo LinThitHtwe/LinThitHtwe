@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **linthit2745@gmail.com**
 
-- ⚡ Fun fact **I love music, instruments and I play piano regularly**
+- ⚡ Fun fact **I love music, instruments and I play piano regularly
+<br /> You Can follow my Youtube Channel where I post my piano cover here and there <a href="https://youtube.com/@linthit-piano4073?si=lTt5R6HDwqth0V0H">Lin Thit - Piano </a>
+- **
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
