@@ -1,4 +1,9 @@
 # 💫 About Me:
+<div style="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="100">
+</div>
 Hello World 👋, I'm Lin Thit Htwe.<br>
 A passionate full stack developer from Myanmar.
 <br><br>
@@ -8,7 +13,6 @@ A passionate full stack developer from Myanmar.
 📫 How to reach me 📧linthit2745@gmail.com
 <br><br>
 ⚡ Fun fact I love music, instruments and I play piano regularly<br>You Can subscribe to my  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@linthit-piano4073)  where I post my piano cover here and there🎹🎵
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanlinnotfound404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@linthit-piano4073) 
