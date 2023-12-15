@@ -25,7 +25,7 @@ A passionate full stack developer from Myanmar.
 # 📊 GitHub Stats:
 ![LinThit27's Stats](https://github-readme-stats.vercel.app/api?username=LinThit27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ![LinThit27's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThit27&theme=tokyonight&hide_border=true)<br/>
-![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![LinThit27's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThit27&radius=6&theme=tokyo-night&hide_border=true) 
 
 
