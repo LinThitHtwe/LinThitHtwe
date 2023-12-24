@@ -35,7 +35,7 @@ A passionate full stack developer from Myanmar.
 ![LinThit27's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThit27&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 
 
