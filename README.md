@@ -32,6 +32,8 @@ A passionate full stack developer from Myanmar.
 # 📊 Wakatime Stats:
 ![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
 
+[![wakatime](https://wakatime.com/badge/user/018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5.svg)](https://wakatime.com/@018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5)
+
 ## 🏆 GitHub Trophies
 ![LinThit27's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThit27&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
