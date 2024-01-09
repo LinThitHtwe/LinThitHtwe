@@ -50,7 +50,20 @@ A passionate full stack developer from Myanmar.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
-### 🤪 Random programming Joke 
+### 🤪 Random Programming Joke 
 ![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Currently Coding and Listening To 🎧
+
+ [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
+
+<details>
+  <summary>More Spotify Data ⬇️ </summary>
+
+  [![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ny5lr2mszspimd7eustqcnombe)](https://data-card-for-spotify.herokuapp.com/card?user_id=31ny5lr2mszspimd7eustqcnombe)
+
+</details>
+
+  
+
+
