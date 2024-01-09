@@ -29,6 +29,16 @@ A passionate full stack developer from Myanmar.
 ![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![LinThit27's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThit27&radius=6&theme=tokyo-night&hide_border=true) 
 
+<p align="center">
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="31%" align="right"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight" width="31%" align="center" title="productive time" />  
+</div>
+</p>
+
+ 
+
 # 📊 Wakatime Stats:
 ![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
 
