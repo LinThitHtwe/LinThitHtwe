@@ -24,20 +24,19 @@ A passionate full stack developer from Myanmar.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![LinThit27's Stats](https://github-readme-stats.vercel.app/api?username=LinThit27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![LinThit27's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThit27&theme=tokyonight&hide_border=true)<br/>
+![LinThit27's Stats](https://github-readme-stats.vercel.app/api?username=LinThit27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
 ![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![LinThit27's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThit27&radius=6&theme=tokyo-night&hide_border=true) 
 
 <p align="center">
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="26%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="26%" align="right"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight" width="26%" align="center" title="productive time" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="28%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="28%" align="right"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight" width="28%" align="center" title="productive time" />  
 </div>
 </p>
 
- 
+![LinThit27's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThit27&theme=tokyonight&hide_border=true)
 
 # 📊 Wakatime Stats:
 ![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
@@ -47,11 +46,11 @@ A passionate full stack developer from Myanmar.
 ## 🏆 GitHub Trophies
 ![LinThit27's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThit27&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Repo I Contributed to
 ![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 ### 🤪 Random Programming Joke 
-![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+![Random Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 ### Currently Coding and Listening To 🎧
 
