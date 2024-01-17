@@ -33,9 +33,9 @@ A passionate full stack developer from Myanmar.
 
 <p align="center">
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight" width="28%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="28%" align="right"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight" width="28%" align="center" title="productive time" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="center" title="productive time" />  
 </div>
 </p>
 
