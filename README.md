@@ -10,7 +10,7 @@ A passionate full stack developer from Myanmar.
 
 🔭 I’m currently working As Junior Software Engineer at [ACE Data System Ltd](https://acedatasystems.com/)
 
-🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB),![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) and UI/UX design.
+🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) and UI/UX design.
 
 📫 How to reach me 📧linthit2745@gmail.com
 
