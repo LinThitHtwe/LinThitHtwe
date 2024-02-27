@@ -10,7 +10,7 @@ A passionate full stack developer from Myanmar.
 
 🔭 I’m currently working As Junior Software Engineer at [ACE Data System Ltd](https://acedatasystems.com/)
 
-🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) and UI/UX design.
+🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) , ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=plastic&logo=Firebase&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) and UI/UX design.
 
 📫 How to reach me 📧linthit2745@gmail.com
 
@@ -58,6 +58,9 @@ A passionate full stack developer from Myanmar.
 ## 🔝 Top Repo I Contributed to
 ![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 🤪 Random Programming Joke 
 ![Random Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
@@ -72,6 +75,5 @@ A passionate full stack developer from Myanmar.
 
 </details>
 
-  
 
 
