@@ -15,7 +15,7 @@ A passionate full stack developer from Myanmar.
 ⚡ Fun fact I love music, instruments and I play piano regularly. You Can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) where I post my piano cover here and there🎹🎵
 
 ## 🌐 Socials:
-[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/LinThit27) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanlinnotfound404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
+[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/LinThitHtwe) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanlinnotfound404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
 
 
 # 💻 Tech Stack:
@@ -26,35 +26,35 @@ A passionate full stack developer from Myanmar.
 
 # 📊 GitHub Stats:
 
-[![GitHub followers](https://img.shields.io/github/followers/LinThit27?logo=GitHub&style=plastic)](https://github.com/LinThit27) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/LinThit27?logo=github&style=plastic)](https://github.com/LinThit27)
+[![GitHub followers](https://img.shields.io/github/followers/LinThitHtwe?logo=GitHub&style=plastic)](https://github.com/LinThitHtwe?tab=followers) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/LinThitHtwe?logo=github&style=plastic)](https://github.com/LinThitHtwe/)
 
-![LinThit27's Stats](https://github-readme-stats.vercel.app/api?username=LinThit27&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
-![LinThit27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThit27&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![LinThit27's Progile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinThit27&theme=tokyonight)
-![LinThit27's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThit27&radius=6&theme=tokyo-night&hide_border=true) 
+![LinThitHtwe's Stats](https://github-readme-stats.vercel.app/api?username=LinThitHtwe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
+![LinThitHtwe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThitHtwe&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![LinThitHtwe's Progile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinThitHtwe&theme=tokyonight)
+![LinThitHtwe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThitHtwe&radius=6&theme=tokyo-night&hide_border=true) 
 
 
 
 <p align="center">
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linthit27&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=linthit27&theme=tokyonight" width="28%" align="right"  />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linthit27&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="center" title="productive time" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinThitHtwe&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinThitHtwe&theme=tokyonight" width="28%" align="right"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinThitHtwe&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="center" title="productive time" />  
 </div>
 </p>
 
-![LinThit27's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThit27&theme=tokyonight&hide_border=true)
+![LinThitHtwe's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThitHtwe&theme=tokyonight&hide_border=true)
 
 # 📊 Wakatime Stats:
-![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
+![LinThitHtwe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
 
 [![wakatime](https://wakatime.com/badge/user/018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5.svg?style=plastic)](https://wakatime.com/@018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5)
 
 ## 🏆 GitHub Trophies
-![LinThit27's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThit27&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
+![LinThitHtwe's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThitHtwe&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
 ## 🔝 Top Repo I Contributed to
-![](https://github-contributor-stats.vercel.app/api?username=LinThit27&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=LinThitHtwe&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
