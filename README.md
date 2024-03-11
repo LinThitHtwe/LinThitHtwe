@@ -23,9 +23,9 @@ A passionate full stack developer from Myanmar.
 
 # 📊 LeetCode Stats 
 
-[![LinTHit27's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=LinThit27&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LinThitHtwe's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=LinThitHtwe&theme=Dark)
 
-![Linthit27's LeetCode Stats](https://leetcard.jacoblin.cool/LinThit27?theme=dark&font=Rubik&ext=heatmap)
+![LinThitHtwe's LeetCode Stats](https://leetcard.jacoblin.cool/LinThitHtwe?theme=dark&font=Rubik&ext=heatmap)
 
 # 📊 GitHub Stats:
 
