@@ -16,7 +16,7 @@ A passionate full stack developer from Myanmar.
 ⚡ Fun fact I love music, instruments and I play piano regularly. You Can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) where I post my piano cover here and there🎹🎵
 
 ## 🌐 Socials:
-[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/LinThitHtwe) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ivanlinnotfound404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
+[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/LinThitHtwe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-thit-845b64294/)
 
 
 # 💻 Tech Stack:
@@ -40,14 +40,12 @@ A passionate full stack developer from Myanmar.
 
 ![LinThitHtwe's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=LinThitHtwe&theme=Dark)
 
-![LinThitHtwe's LeetCode Stats](https://leetcard.jacoblin.cool/LinThitHtwe?theme=dark&font=Rubik&ext=heatmap)
-
 # 📊 GitHub Stats:
 
 [![GitHub followers](https://img.shields.io/github/followers/LinThitHtwe?logo=GitHub&style=plastic)](https://github.com/LinThitHtwe?tab=followers) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/LinThitHtwe?logo=github&style=plastic)](https://github.com/LinThitHtwe/)
 
-![LinThitHtwe's Stats](https://github-readme-stats.vercel.app/api?username=LinThitHtwe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)
-![LinThitHtwe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThitHtwe&langs_count=12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![LinThitHtwe's Stats](https://github-readme-stats.vercel.app/api?username=LinThitHtwe&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true)
+![LinThitHtwe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinThitHtwe&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![LinThitHtwe's Progile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinThitHtwe&theme=tokyonight)
 ![LinThitHtwe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=LinThitHtwe&radius=6&theme=tokyo-night&hide_border=true) 
 
