@@ -69,12 +69,9 @@ A passionate full stack developer from Myanmar.
 ## 🏆 GitHub Trophies
 ![LinThitHtwe's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThitHtwe&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
-## 🔝 Top Repo I Contributed to
+## 🔝 Top Open Source Repo I Contributed(Committed) to 
 ![](https://github-contributor-stats.vercel.app/api?username=LinThitHtwe&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
-##  🎧 Currently Coding and Listening To 
+## 🎧 Currently Coding and Listening to 
 
  [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
-
-
-
