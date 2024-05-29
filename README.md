@@ -75,3 +75,6 @@ A passionate full stack developer from Myanmar.
 ## 🎧 Currently Coding and Listening to 
 
  [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
+
+
+ [![Youtube](https://img.shields.io/youtube/channel/views/UCPX6wF21vEgOVG2hp7764UA?style=flat&logo=youtube)](https://www.youtube.com/@linthit-piano)
