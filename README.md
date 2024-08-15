@@ -38,6 +38,11 @@ A passionate full stack developer from Myanmar.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
+![snake gif](https://github.com/LinThitHtwe/LinThitHtwe/blob/output/github-contribution-grid-snake.gif)
+
+
+<details>
+<summary>Check out my stats - </summary>
 
 # 📊 GitHub Stats:
 
@@ -77,3 +82,5 @@ A passionate full stack developer from Myanmar.
 
 
  [![Youtube](https://img.shields.io/youtube/channel/views/UCPX6wF21vEgOVG2hp7764UA?style=flat&logo=youtube)](https://www.youtube.com/@linthit-piano)
+
+ </details>
