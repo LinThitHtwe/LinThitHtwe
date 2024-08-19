@@ -38,7 +38,7 @@ A passionate full stack developer from Myanmar.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
-![snake gif](https://github.com/LinThitHtwe/LinThitHtwe/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LinThitHtwe/LinThitHtwe/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <details>
