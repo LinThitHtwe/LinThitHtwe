@@ -11,7 +11,7 @@ A passionate full stack developer from Myanmar.
 🌱 I’m currently learning ![C#](https://img.shields.io/badge/C%23-A020F0?style=plastic&logo=c-sharp&logoColor=white)
  and ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-A020F0?style=plastic&logo=.net&logoColor=white)
 
-📫 How to reach me 📧linthit2745@gmail.com
+📫 How to reach me 📧linthithtwe@outlook.com
 
 ⚡ Fun fact I love music, instruments and I play piano regularly. You Can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) where I post my piano cover here and there🎹🎵
 
