@@ -6,10 +6,7 @@
 </p>
 </br>
 
-A passionate full stack developer from Myanmar.
-
-🌱 I’m currently learning ![C#](https://img.shields.io/badge/C%23-A020F0?style=plastic&logo=c-sharp&logoColor=white)
- and ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-A020F0?style=plastic&logo=.net&logoColor=white)
+I'm a full-stack developer with experience in React,NextJs and .NET , passionate about building projects, exploring new technologies, and collaborating with others in the tech community. 
 
 📫 Reach me through mail 📧[linthithtwe@outlook.com](mailto:linthithtwe@outlook.com)
 
@@ -42,7 +39,7 @@ A passionate full stack developer from Myanmar.
 
 
 <details>
-<summary>Check out my stats - </summary>
+<summary>Check out my stats 📊⬇️ - </summary>
 
 # 📊 GitHub Stats:
 
