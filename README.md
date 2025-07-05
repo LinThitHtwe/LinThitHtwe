@@ -8,6 +8,8 @@
 
 I'm a full-stack developer with experience in React,NextJs and .NET , passionate about building projects, exploring new technologies, and collaborating with others in the tech community. 
 
+Check out my [portfolio](https://www.linthithtwe.com) -> [https://www.linthithtwe.com](https://www.linthithtwe.com)
+
 📫 Reach me through mail 📧[linthithtwe@outlook.com](mailto:linthithtwe@outlook.com)
 
 ⚡ Fun fact: I love music, instruments, and I regularly play piano. You can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano), where I post my piano covers every now and then. Check out my [website](https://linthit-piano.vercel.app/) for my channel, where you can download sheet music that I’ve uploaded on YouTube for free - [https://linthit-piano.vercel.app/](https://linthit-piano.vercel.app/) 🎹🎵
