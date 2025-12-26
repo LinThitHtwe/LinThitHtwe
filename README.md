@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
@@ -10,15 +10,15 @@ I'm a full-stack developer with experience in React,NextJs and .NET , passionate
 
 Check out my [portfolio](https://www.linthithtwe.com) -> [linthithtwe.com](https://www.linthithtwe.com)
 
-📫 Reach me through mail 📧[linthithtwe@outlook.com](mailto:linthithtwe@outlook.com)
+Reach me through mail [linthithtwe@outlook.com](mailto:linthithtwe@outlook.com)
 
-⚡ Fun fact: I love music, instruments, and I regularly play piano. You can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano), where I post my piano covers every now and then. Check out my [website](https://linthit-piano.vercel.app/) for my channel, where you can download sheet music that I’ve uploaded on YouTube for free - [linthit-piano.com](https://linthit-piano.com) 🎹🎵
+Fun fact: I love music, instruments, and I regularly play piano. You can subscribe to my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano), where I post my piano covers every now and then. Check out my [website](https://linthit-piano.vercel.app/) for my channel, where you can download sheet music that I’ve uploaded on YouTube for free - [linthit-piano.com](https://linthit-piano.com) 
 
-## 🌐 Socials:
+## Socials:
 [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/LinThitHtwe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linthit2745) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linthit-piano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linthithtwe/) [![Upwork](https://img.shields.io/badge/Upwork-%73bb44.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b403b892d79acc22) 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
@@ -41,9 +41,9 @@ Check out my [portfolio](https://www.linthithtwe.com) -> [linthithtwe.com](https
 
 
 <details>
-<summary>Check out my stats 📊⬇️ - </summary>
+<summary>Check out my stats - </summary>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 [![GitHub followers](https://img.shields.io/github/followers/LinThitHtwe?logo=GitHub&style=plastic)](https://github.com/LinThitHtwe?tab=followers) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/LinThitHtwe?logo=github&style=plastic)](https://github.com/LinThitHtwe/)
 
@@ -64,18 +64,18 @@ Check out my [portfolio](https://www.linthithtwe.com) -> [linthithtwe.com](https
 
 ![LinThitHtwe's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=LinThitHtwe&theme=tokyonight&hide_border=true)
 
-# 📊 Wakatime Stats:
+# Wakatime Stats:
 ![LinThitHtwe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinThit27\&layout=compact&theme=tokyonight&hide_border=true)
 
 [![wakatime](https://wakatime.com/badge/user/018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5.svg?style=plastic)](https://wakatime.com/@018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![LinThitHtwe's Github Thropies](https://github-profile-trophy.vercel.app/?username=LinThitHtwe&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
 
-## 🔝 Top Open Source Repo I Contributed(Committed) to 
+## Top Open Source Repo I Contributed(Committed) to 
 ![](https://github-contributor-stats.vercel.app/api?username=LinThitHtwe&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
-## 🎧 Currently Coding and Listening to 
+## Currently Coding and Listening to 
 
  [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ny5lr2mszspimd7eustqcnombe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/linthit27)
 
